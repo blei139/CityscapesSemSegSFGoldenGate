@@ -8,7 +8,7 @@ are painted purple, the lawn is painted light green, and trees are painted green
 Just finished generating semantic segmentation videos for the first time, but I will improve on the training of the dataset.
 
 I generated semantic segmentation images in segmented_imgs directory. They look like paintings from a postcard. Notice the road has 
-been classified in GoldenGateImg1.JPG to GoldenGateImg18.JPG in the test_imgs directory.  
+been classified in GoldenGateImg1.JPG to GoldenGateImg18.JPG.  
 
 From my observation, the road is being classified best when the road is tilted on one side and the road is bumpy with surface texture.  
 It also do well when the car is making a turn.  It does very poor on roads with flat surface.  On my next video recording, I will 
