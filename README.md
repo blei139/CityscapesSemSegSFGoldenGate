@@ -15,9 +15,19 @@ It also do well when the car is making a turn.  It does very poor on roads with 
 try to point the camera more downward to focus on the road surface more.  I think my camera is pointing too much at an upward angle.
 Therefore, it is hard for road classification.
 
-Another observation is that as I calibrate the camera images and undistort each video frame.  There is a huge performance improvement in road classification.  More areas of the road is painted purple than before.
+Another observation is that as I calibrate the camera images and undistort each video frame.  There is some performance improvement in road classification.
 
 I will train the dataset more until the entropy loss is going down a little more.
 
-Here are the youtube links: 
+I have a very simple camera.  My issue is that the road is super difficult to classify using my camera, but if I using the videos provided
+by Udacity's self-driving car curriculum, the road is painted well in most cases.
+
+Youtube links using videos from Udacity's self-driving car curriculum:
+https://youtu.be/6TqYQ3kcgj0
+
+https://youtu.be/o2pcyRc12Vs
+
+https://youtu.be/xa-DvQLKOuI
+
+Here are the youtube links from my camera: 
 https://youtu.be/pBwrd515n-8
