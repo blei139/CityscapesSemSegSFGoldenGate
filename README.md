@@ -15,5 +15,9 @@ It also do well when the car is making a turn.  It does very poor on roads with 
 try to point the camera more downward to focus on the road surface more.  I think my camera is pointing too much at an upward angle.
 Therefore, it is hard for road classification.
 
+Another observation is that as I calibrate the camera images and undistort each video frame.  There is a huge performance improvement in road classification.  More areas of the road is painted purple than before.
+
+I will train the dataset more until the entropy loss is going down a little more.
+
 Here are the youtube links: 
 https://youtu.be/pBwrd515n-8
