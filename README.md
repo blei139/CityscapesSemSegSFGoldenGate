@@ -29,9 +29,14 @@ https://youtu.be/o2pcyRc12Vs
 
 https://youtu.be/xa-DvQLKOuI
 
-Here are the youtube links from my camera: 
+Here is the youtube link using video taken from my camera: 
+
 https://youtu.be/pBwrd515n-8
 
 On 11/16/17, after 8 days of another round of training, the entropy loss has reduced from 0.6 to 0.433. From the augmented images that I generated, the road classification shows improvements. I will generated more videos to see the results tonight.
+
+Here is the youtube link using video taken from my camera, which shows improvement:
+
+https://youtu.be/RzcPV6Cr6Fs
 
 In the mean time, the third round of training is starting, too.
