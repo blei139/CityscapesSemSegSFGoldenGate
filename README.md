@@ -45,4 +45,4 @@ Here is the youtube link after the third round of training:
 
 https://youtu.be/kuZ8O8d5oiI
 
-In the mean time, the third round of training is starting, too.
+In the mean time, the fourth round of training is starting, too.
