@@ -39,4 +39,10 @@ Here is the youtube link using video taken from my camera, which shows improveme
 
 https://youtu.be/RzcPV6Cr6Fs
 
+On 12/5/17, the third round of training, I am seeing incremental improvements.  The overall semantic segmentation is improving as the cross entropy is decreasing slowly.
+
+Here is the youtube link after the third round of training:
+
+https://youtu.be/kuZ8O8d5oiI
+
 In the mean time, the third round of training is starting, too.
